@@ -1,4 +1,4 @@
-# Analog-Clock
+# Analog-Clock with Theme Toggler
 A simple Analog Clock using Html, CSS, Javascript.
 
 This is a simple Analog Clock functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
